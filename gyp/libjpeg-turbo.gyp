@@ -91,7 +91,7 @@
             ],
         },
         'cflags': [
-            '-w', # supresses warnings
+            '-w', # suppresses warnings
         ]
     }]
 }
